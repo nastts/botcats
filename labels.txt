@@ -1,0 +1,2 @@
+0 real cat
+1 AI cat
